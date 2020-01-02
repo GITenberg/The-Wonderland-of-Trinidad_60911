@@ -1,0 +1,22 @@
+_repo: The-Wonderland-of-Trinidad_60911
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barber Asphalt Paving Co.
+    gutenberg_agent_id: '51180'
+    url: http://www.gutenberg.org/2009/agents/51180
+description: ''
+gutenberg_issued: '2019-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2001'
+- !lcsh 'Trinidad'
+- GITenberg
+title: The Wonderland of Trinidad
+url: http://www.gutenberg.org/ebooks/60911
